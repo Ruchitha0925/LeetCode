@@ -12,7 +12,7 @@ Solved: 10 (Easy: 7, Medium: 3, Hard: 0)
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-07 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-10-07 |
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-07 |
+| 136 | [Single Number](136-single-number/) | Easy | 2026-10-07 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
 | 6 | [Zigzag Conversion](6-zigzag-conversion/) | Medium | 2026-10-07 |
-| 136 | [Single Number](136-single-number/) | Easy | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
