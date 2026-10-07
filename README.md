@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 8 (Easy: 5, Medium: 3, Hard: 0)
+Solved: 9 (Easy: 6, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,4 +13,5 @@ Solved: 8 (Easy: 5, Medium: 3, Hard: 0)
 | 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-07 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-07 |
 | 6 | [Zigzag Conversion](6-zigzag-conversion/) | Medium | 2026-10-07 |
+| 66 | [Plus One](66-plus-one/) | Easy | 2026-10-07 |
 <!-- LEETHUB:TABLE:END -->
