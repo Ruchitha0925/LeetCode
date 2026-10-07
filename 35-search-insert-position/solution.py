@@ -1,4 +1,4 @@
-// 0 ms | 13 MB
+// 3 ms | 13 MB
 class Solution(object):
     def searchInsert(self, nums, target):
         l=0
@@ -9,6 +9,6 @@ class Solution(object):
                 r=mid-1
             elif(target>nums[mid]):
                 l=mid+1
-            else:
+            elif(target==nums[mid]):
                 return mid
         return l
