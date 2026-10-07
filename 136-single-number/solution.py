@@ -1,10 +1,12 @@
-// 11 ms | 13.3 MB
-class Solution:
+// 12 ms | 15.2 MB
+class Solution(object):
     def singleNumber(self, nums):
-        # Intuition: sorted pairs sit next to each other
-        n = len(nums)
-        nums.sort()
-        for i in range(0, n - 1, 2):
-            if nums[i] != nums[i + 1]:
-                return nums[i]
-        return nums[n - 1]
+        dict={}
+        for i in range(len(nums)):
+            if nums[i] in dict:
+                dict[nums[i]]+=1
+            else:
+                dict[nums[i]]=1
+        for key,val in dict.items():
+                if val==1:
+                    return key
